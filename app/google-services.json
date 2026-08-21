@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50878768951",
+    "project_id": "expensemate-84257",
+    "storage_bucket": "expensemate-84257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50878768951:android:250eb1b0aff58443bb1cb2",
+        "android_client_info": {
+          "package_name": "com.geethma.expensemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iusFN8_pENtkGd3angfytSDXJronOdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
